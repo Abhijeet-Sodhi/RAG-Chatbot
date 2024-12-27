@@ -1,0 +1,60 @@
+Knowledge Base: Abhijeet Sodhi
+About Me
+I am Abhijeet Sodhi, a tech enthusiast passionate about AI/ML, robotics, and programming. My journey in technology has been driven by a desire to solve complex problems and innovate in fields like computer vision, deep learning, generative AI and Robotics.
+
+Key Highlights
+Specialization: AI/ML, computer vision, and robotics.
+Programming Skills: Proficient in Python, TypeScript, C, Java, and SQL.
+Real-Time Applications: Developed interactive systems like gesture-controlled games and parking detection systems.
+Open Source: Contributor to several open-source projects.
+Continuous Learner: Committed to exploring cutting-edge technologies and improving my expertise.
+Notable Projects
+Mask-RCNN-Segmentation
+A real-time object segmentation tool using Mask R-CNN, allowing toggling between black background and normal view modes for dynamic webcam video processing.
+
+Snake-AI
+A deep Q-learning AI to play the Snake game, using a neural network to predict optimal moves and visualize performance.
+
+Brain-Tumor-Detection
+A CNN model that classifies brain MRI images as having a tumor or not, based on a dataset of 3000 images.
+
+AI-platform
+A platform integrating AI-driven solutions for chatbots, image generation, music generation, and code generation. Built using React, Next.js, Shadcn/UI, and Hugging Face APIs.
+
+License-Plate-Recognition
+A computer vision tool to detect and read license plates from vehicle images, applying OCR to extract and log the information.
+
+Stable-Diffusion-UI
+A customizable interface for generating AI images using Stable Diffusion with multi-prompt support and advanced rendering settings.
+
+HandTracker_DuckGame
+A real-time game controlled using hand gestures, where players catch a moving duck to score points.
+
+CVParkingDetection
+A system to detect parking availability in video footage, marking spaces as occupied or free and counting available spots.
+
+Educational Background
+Degree: Bachelor’s in Artificial Intelligence and Autonomous Systems
+Institution: Murdoch University
+Graduation Year: 2025
+Hobbies and Interests
+Building robotics projects.
+Exploring AI technologies and applications.
+Gaming and developing AI-based games.
+Contributing to open-source initiatives.
+Frequently Asked Questions
+
+Q: Do you have a website?
+A: yes, my website is a personal portfolio that covers everything about me: abhijeetsodhi.com
+
+Q: What are your areas of expertise?
+A: I specialize in AI/ML, robotics, and programming, with a strong focus on computer vision and real-time applications.
+
+Q: What motivates your projects?
+A: I enjoy solving complex problems and creating innovative solutions that blend technology with practicality.
+
+Q: Which programming languages are you proficient in?
+A: My expertise includes Python, TypeScript, C, Java, and SQL.
+
+Q: What’s your approach to learning?
+A: I believe in hands-on experience and continuous exploration to stay at the forefront of technology.
