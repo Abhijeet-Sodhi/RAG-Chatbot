@@ -5,12 +5,12 @@ AI chatbots with Retrieval-Augmented Generation (RAG) capabilities for free, usi
 [![Build AI Chatbots (with RAG) for FREE using Langflow and Ollama (Run Models Locally)](https://www.youtube.com/watch?v=tVwdpQyjtOc.jpg)](https://www.youtube.com/watch?v=tVwdpQyjtOc) - **Leon van Zyl**
 The base idea for this project was adapted from Leon van Zyl. While the original concept used as a foundation, modifications were made to suit the features of this personal chatbot.
 
+## Demo 🎬
+See how easy it is to create and deploy chatbots using Langflow and Ollama:
+
 ## Files 📄
 
 **Abhijeet.txt:** Contains the data in which the chatbot has been trained on.
-
-## Demo 🎬
-See how easy it is to create and deploy chatbots using Langflow and Ollama:
 
 ## Theory Insight 💡
 ### Query Workflow for Chatbot Interaction ✅
