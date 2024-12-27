@@ -41,9 +41,10 @@ This workflow outlines how knowledge is pre-processed and ingested into the syst
 
 ## Installation 💻
 
-To get started, ensure you have the following dependencies installed:
+create a virtual environment:
+![image](https://github.com/user-attachments/assets/3e7c72bc-fee8-4f01-8f61-29aa5b247793)
 
-![installation](https://github.com/user-attachments/assets/4ea8f9d4-715d-42fc-8059-9ec70ad61272)
+To get started, ensure you have the following dependencies installed:
 
 **UV’s** core advantage over pip is its speed. Benchmarks show that UV can handle dependency installations much faster 
 
