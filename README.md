@@ -8,6 +8,8 @@ The base idea for this project was adapted from Leon van Zyl. While the original
 ## Demo 🎬
 See how easy it is to create and deploy chatbots using Langflow and Ollama:
 
+https://github.com/user-attachments/assets/ffd3280a-2c73-4ab1-a080-1f0a4d9e0adb
+
 ## Files 📄
 
 **Abhijeet.txt:** Contains the data in which the chatbot has been trained on.
