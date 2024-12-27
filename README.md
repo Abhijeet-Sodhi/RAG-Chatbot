@@ -42,6 +42,7 @@ This workflow outlines how knowledge is pre-processed and ingested into the syst
 ## Installation 💻
 
 create a virtual environment:
+
 ![image](https://github.com/user-attachments/assets/3e7c72bc-fee8-4f01-8f61-29aa5b247793)
 
 To get started, ensure you have the following dependencies installed:
