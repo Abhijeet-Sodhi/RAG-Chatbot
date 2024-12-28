@@ -18,6 +18,8 @@ https://github.com/user-attachments/assets/7b2a8eef-0f69-43c9-8c67-5c10ea645d06
 
 **Abhijeet.txt:** Contains the data in which the chatbot has been trained on.
 
+**chatbot.jsx:** Contains integration of langflow api into my website.
+
 ## Theory Insight 💡
 ### Query Workflow for Chatbot Interaction ✅
 ![langflow_1](https://github.com/user-attachments/assets/cdc0c3db-921d-4e98-8eb4-349f20de5d1b)
