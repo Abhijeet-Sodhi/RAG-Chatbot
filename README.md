@@ -10,6 +10,10 @@ See how easy it is to create and deploy chatbots using Langflow and Ollama:
 
 https://github.com/user-attachments/assets/ffd3280a-2c73-4ab1-a080-1f0a4d9e0adb
 
+I integrated a chatbot into the website code, but it's not functional because LangFlow is currently set up to run only on the **local machine**, limiting its accessibility from the live site.
+
+https://github.com/user-attachments/assets/7b2a8eef-0f69-43c9-8c67-5c10ea645d06
+
 ## Files 📄
 
 **Abhijeet.txt:** Contains the data in which the chatbot has been trained on.
